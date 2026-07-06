@@ -53,7 +53,7 @@ export default function Hero() {
               Prendre un rendez-vous
             </a>
             <a
-              href="https://wa.me/50943911985"
+              href="https://wa.me/50939919188"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-full border border-cream-50/40 bg-cream-50/5 px-7 py-3.5 text-base font-medium text-cream-50 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:bg-cream-50/15"

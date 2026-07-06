@@ -94,7 +94,7 @@ export default function Footer() {
               </li>
             </ul>
             <a
-              href="https://wa.me/50943911985"
+              href="https://wa.me/50939919188"
               target="_blank"
               rel="noreferrer"
               className="mt-6 inline-flex items-center gap-2 rounded-full bg-emerald2-600 px-5 py-2.5 text-sm font-medium text-cream-50 transition-all duration-300 hover:-translate-y-0.5 hover:bg-emerald2-700"

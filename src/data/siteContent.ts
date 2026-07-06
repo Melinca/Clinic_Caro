@@ -18,7 +18,7 @@ export function imageUrl(url: string) {
 export const siteImages = {
   logo: '',
   hero: imageUrl(
-    'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1920'
+    'https://drive.google.com/file/d/1HZ4gyCTO9N8zt-3nKhkpmTv7Oqj_RSkn/view?usp=drive_link'
   ),
 };
 

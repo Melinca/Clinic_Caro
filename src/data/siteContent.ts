@@ -26,42 +26,42 @@ export const galleryImages: Photo[] = [
   {
     id: 'g1',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997389/pexels-photo-3997389.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://i.pinimg.com/736x/a9/a1/3d/a9a13dc52ab9373a38161d1be198c777.jpg'
     ),
     label: 'Soin du visage',
   },
   {
     id: 'g2',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://cache.cosmopolitan.fr/data/fichiers/18q/femme-massage-relaxant.jpg'
     ),
     label: 'Massage corps',
   },
   {
     id: 'g3',
     url: imageUrl(
-      'https://images.pexels.com/photos/3865711/pexels-photo-3865711.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://medecins-esthetiques-paris.com/wp-content/uploads/sub-site/e6f13b18-ae6f-4d3a-9df1-13d0bd735c45/Qn82swxvDUkHjBE37WXrjgKl5d7k957rhK9b8K7N.jpg'
     ),
     label: 'Traitement anti-age',
   },
   {
     id: 'g4',
     url: imageUrl(
-      'https://images.pexels.com/photos/6621339/pexels-photo-6621339.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://aesthetics360medspa.com/wp-content/uploads/2023/02/Aesthetics-360-Lash-MedSpa-Stock-Photos-08-cosmetologist-making-mesotherapy-injection-with-de-2022-12-15-18-17-01-utc.jpg'
     ),
     label: 'Microneedling',
   },
   {
     id: 'g5',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://www.stlukesatthevillages.com/wp-content/uploads/Cynosure-1-after-500.jpg'
     ),
     label: 'Hydrafacial',
   },
   {
     id: 'g6',
     url: imageUrl(
-      'https://images.pexels.com/photos/4175252/pexels-photo-4175252.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://clinicamoreiralima.com.br/wp-content/uploads/2024/06/IMG-0007-Lifting-Facial-scaled.jpg'
     ),
     label: 'Lifting facial',
   },

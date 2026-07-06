@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Jost:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream-50 text-bordeaux-950 font-sans antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-bordeaux-700 px-7 py-3.5 text-sm font-medium tracking-wide text-cream-50 shadow-soft transition-all duration-300 hover:bg-bordeaux-800 hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0;
+  }
+  .btn-emerald {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-emerald2-600 px-7 py-3.5 text-sm font-medium tracking-wide text-cream-50 shadow-card transition-all duration-300 hover:bg-emerald2-700 hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-gold-400 bg-transparent px-7 py-3.5 text-sm font-medium tracking-wide text-gold-700 transition-all duration-300 hover:bg-gold-400 hover:text-bordeaux-950 hover:-translate-y-0.5;
+  }
+  .section-eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-medium uppercase tracking-[0.25em] text-gold-600;
+  }
+  .section-title {
+    @apply font-serif text-3xl sm:text-4xl md:text-5xl font-semibold leading-tight text-bordeaux-900;
+  }
+  .card-hover {
+    @apply transition-all duration-500 hover:-translate-y-1.5 hover:shadow-soft;
+  }
+}
+
+/* Reveal-on-scroll helper */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #faf6f0; }
+::-webkit-scrollbar-thumb { background: #b34d65; border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #7e2a43; }

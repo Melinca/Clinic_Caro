@@ -18,7 +18,7 @@ export function imageUrl(url: string) {
 export const siteImages = {
   logo: imageUrl('https://drive.google.com/file/d/1HZ4gyCTO9N8zt-3nKhkpmTv7Oqj_RSkn/view?usp=drive_link'),
   hero: imageUrl(
-    'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1920'
+    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/10/b8/35/vv07-aesthetics.jpg?w=700&h=-1&s=1'
   ),
 };
 

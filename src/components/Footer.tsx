@@ -69,7 +69,7 @@ export default function Footer() {
             <ul className="mt-5 space-y-4 text-sm">
               <li>
                 <a
-                  href="tel:+50943911985"
+                  href="tel:+50939919188"
                   className="flex items-start gap-3 text-cream-100/80 transition-colors hover:text-gold-200"
                 >
                   <Phone className="mt-0.5 h-4 w-4 shrink-0 text-gold-300" />
@@ -77,7 +77,7 @@ export default function Footer() {
                     Téléphone / WhatsApp
                     <br />
                     <span className="font-medium text-cream-50">
-                      +509 43 91 1985
+                      +509 4391-1985 / +509 3991-9188 
                     </span>
                   </span>
                 </a>

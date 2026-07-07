@@ -16,7 +16,7 @@ export function imageUrl(url: string) {
 }
 
 export const siteImages = {
-  logo: imageUrl('https://tse2.mm.bing.net/th/id/OIP.IqYbcNKrhhURoMflaYr3QAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3),
+  logo: imageUrl('https://tse2.mm.bing.net/th/id/OIP.IqYbcNKrhhURoMflaYr3QAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'),
   hero: imageUrl(
     'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/10/b8/35/vv07-aesthetics.jpg?w=700&h=-1&s=1'
   ),

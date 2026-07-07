@@ -18,7 +18,7 @@ export function imageUrl(url: string) {
 export const siteImages = {
   logo: imageUrl('https://cdn.corenexis.com/f/2WVVSf4NNRx.jpeg'),
   hero: imageUrl(
-    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/10/b8/35/vv07-aesthetics.jpg?w=700&h=-1&s=1'
+    'https://cdn.corenexis.com/f/2WVVSf4NNRx.jpeg'
   ),
 };
 
@@ -35,28 +35,28 @@ export const galleryImages: Photo[] = [
   {
     id: 'g1',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997389/pexels-photo-3997389.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://koala.sh/api/image/v2-83cfp-2nbwk.jpg?width=1216&height=832&dream'
     ),
     label: 'Soin du visage',
   },
   {
     id: 'g2',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://www.savezedress.com/wp-content/uploads/2024/04/148838massage-normandiec7bf44-1140x757.png'
     ),
     label: 'Massage corps',
   },
   {
     id: 'g3',
     url: imageUrl(
-      'https://images.pexels.com/photos/3865711/pexels-photo-3865711.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://i.pinimg.com/736x/10/45/64/1045642ee72d2960a5261c645374263a.jpg'
     ),
     label: 'Traitement anti-age',
   },
   {
     id: 'g4',
     url: imageUrl(
-      'https://images.pexels.com/photos/6621339/pexels-photo-6621339.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://clarityct.com/wp-content/uploads/2024/02/Woman_getting_microneedling.jpg'
     ),
     label: 'Microneedling',
   },

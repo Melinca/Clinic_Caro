@@ -18,7 +18,7 @@ export function imageUrl(url: string) {
 export const siteImages = {
   logo: imageUrl('https://cdn.corenexis.com/f/2WVVSf4NNRx.jpeg'),
   hero: imageUrl(
-    'https://cdn.corenexis.com/f/2WVVSf4NNRx.jpeg'
+    'https://i.pinimg.com/736x/d2/78/b1/d278b18b45da72b8fdce952c2bbd04a9.jpg'
   ),
 };
 

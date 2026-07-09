@@ -63,14 +63,14 @@ export const galleryImages: Photo[] = [
   {
     id: 'g5',
     url: imageUrl(
-      'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://i.pinimg.com/1200x/e7/f6/be/e7f6bec5e790135e5c3b25305c6e44b1.jpg'
     ),
     label: 'Hydrafacial',
   },
   {
     id: 'g6',
     url: imageUrl(
-      'https://images.pexels.com/photos/4175252/pexels-photo-4175252.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://i.pinimg.com/736x/c0/9d/dc/c09ddcc0ba618142c7c4e184ce02ac61.jpg'
     ),
     label: 'Lifting facial',
   },
